@@ -27,6 +27,7 @@ class Quotes extends CI_Model
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'), 
 		'7'	 => array('who'	 => 'Picachu', 'role'	 => 'First Mate',
 		'what'	 => 'Pika~')
+        
 	);
 
 	// Constructor
