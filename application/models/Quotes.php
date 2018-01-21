@@ -26,7 +26,19 @@ class Quotes extends CI_Model
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'), 
 		'7'	 => array('who'	 => 'Picachu', 'role'	 => 'First Mate',
-		'what'	 => 'Pika~')
+		'what'	 => 'Pika~'),
+         '8'	 => array('who'	 => 'Barf', 'role'	 => 'Barfff',
+			'what'	 => 'I am Barf!'), 
+        '9'	 => array('who'	 => 'Dark Helmet', 'role'	 => 'Protagonist? Antagonist?',
+			'what'	 => 'Just a dark helmet'), 
+        '10'	 => array('who'	 => 'Dot Matrix', 'role'	 => 'First AI generation',
+			'what'	 => 'How can I help you?'), 
+        '11'	 => array('who'	 => 'John Candy', 'role'	 => 'Ha...',
+			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
+        '12'	 => array('who'	 => 'Yogurt', 'role'	 => 'Role? He is not dairy product, Im pretty sure',
+			'what'	 => 'Another version of Yoda?')
+
+        
 	);
 
 	// Constructor
